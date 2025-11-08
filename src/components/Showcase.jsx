@@ -47,6 +47,27 @@ const Showcase = () => {
                             </p>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aspernatur aut commodi dolor dolore ea enim ex expedita facere illum, incidunt itaque minima mollitia nulla pariatur quis soluta ut voluptatem!</p>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aspernatur aut commodi dolor dolore ea enim ex expedita facere illum, incidunt itaque minima mollitia nulla pariatur quis soluta ut voluptatem!</p>
+                            <p className="text-primary">
+                                Learn more about Apple Intelligence
+                            </p>
+
+                        </div>
+                    </div>
+                    <div className="max-w-3xs space-y-14">
+                        <div className="space-y-2">
+                            <p>Up to</p>
+                            <h3>4x faster</h3>
+                            <p>pro rendering performance than M2</p>
+
+                        </div>
+                        <div className="space-y-2">
+                            <p>Up to</p>
+                            <h3>1.5x faster</h3>
+                            <p>CPU performance than M2</p>
+
+                        </div>
+                    </div>
+                </div>
                              <p className="text-primary">
                                  Learn more about Apple Intelligence
                              </p>
