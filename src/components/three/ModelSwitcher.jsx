@@ -55,6 +55,7 @@ const ModelSwitcher = ({scale,isMobile}) => {
         azimuth:[-Infinity,Infinity],
         config:{mass:1,tension:0,friction:26}
     }
+
     return (
         <>
             <PresentationControls {...controlsConfig}>
